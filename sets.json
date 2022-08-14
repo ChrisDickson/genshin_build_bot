@@ -1,0 +1,122 @@
+{
+    "bs": [{
+        "name": "Name: Blizzard Strayer",
+        "2set": "2 Piece: Cryo DMG Bonus +15%",
+        "4set": "4 Piece: When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+        "loc": "Location: Peak of Vindagnyr"
+    }],
+    "bsc":[{
+        "name": "Name: Bloodstained Chivalry",
+        "2set": "2 Piece: Physical DMG Bonus +25%",
+        "4set": "4 Piece: After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s. Also triggers with wild animals such as boars, squirrels and frogs.",
+        "loc": "Location: Clear Pool and Mountain Cavern"
+    }],
+    "cw":[{
+        "name": "Name: Crimson Witch of Flames",
+        "2set": "2 Piece: Pyro DMG Bonus +15%",
+        "4set": "4 Piece: Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+        "loc": "Location: Hidden Palace of Zhou Formula"
+    }],
+    "dm":[{
+        "name": "Name: Deepwood Memories",
+        "2set": "2 Piece: Dendro DMG Bonus +15%",
+        "4set": "4 Piece: After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.",
+        "loc": "Location: Spire of Solitary Enlightenment"
+    }],
+    "eoo":[{
+        "name": "Name: Echoes of an Offering",
+        "2set": "2 Piece: ATK +18%.",
+        "4set": "4 Piece: When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK.\nThis effect will be dispelled 0.05s after a Normal Attack deals DMG\nIf a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%.\nThis trigger can occur once every 0.2s.",
+        "loc": "Location: The Lost Valley"
+    }],
+    "esf":[{
+        "name": "Name: Emblem of Severed Fate",
+        "2set": "2 Piece: Energy Recharge +20%",
+        "4set": "4 Piece: Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+        "loc": "Location: Momiji-Dyed Court"
+    }],
+    "gd":[{
+        "name": "Name: Gilded Dreams",
+        "2set": "2 Piece: Elemental Mastery +80",
+        "4set": "4 Piece: Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members, ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buff is will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.",
+        "loc": "Location: Spire of Solitary Enlightenment"
+    }],
+    "hod":[{
+        "name": "Name: Heart of Depth",
+        "2set": "2 Piece: Hydro DMG Bonus +15%",
+        "4set": "4 Piece: After using an Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+        "loc": "Location: Peak of Vindagnyr"
+    }],
+    "husk":[{
+        "name": "Name: Husk of Opulent Dreams",
+        "2set": "2 Piece: DEF +30%",
+        "4set": "4 Piece: A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions:\nWhen on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s.\nWhen off the field, the character gains 1 stack every 3s.\nCuriosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus.\nWhen 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.",
+        "loc": "Location: Slumbering Court"
+    }],
+    "lw":[{
+        "name": "Name: Lavawalker",
+        "2set": "2 Piece: Pyro RES increased by 40%.",
+        "4set": "4 Piece: Increases DMG against opponents affected by Pyro by 35%.",
+        "loc": "Location: Hidden Palace of Zhou Formula"
+    }],
+    "no":[{
+        "name": "Name: Noblesse Oblige",
+        "2set": "2 Piece: Elemental Burst DMG +20%",
+        "4set": "4 Piece: Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.",
+        "loc": "Location: Clear Pool and Mountain Cavern"
+    }],
+    "ohc":[{
+        "name": "Name: Ocean-Hued Clam",
+        "2set": "2 Piece: Healing Bonus +15%.",
+        "4set": "4 Piece: When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing).\nAt the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing.\n(This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but it is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses).\nOnly one Sea-Dyed Foam can be produced every 3.5 seconds.\nEach Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing).\nThere can be no more than one Sea-Dyed Foam active at any given time.\nThis effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "loc": "Location: Slumbering Court"
+    }],
+    "pf":[{
+        "name": "Name: Pale Flame",
+        "2set": "2 Piece: Physical DMG Bonus +25%",
+        "4set": "4 Piece: When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.",
+        "loc": "Location: Ridge Watch"
+    }],
+    "rb":[{
+        "name": "Name: Retracing Bolide",
+        "2set": "2 Piece: Increases Shield Strength by 35%.",
+        "4set": "4 Piece: While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.",
+        "loc": "Location: Domain of Guyun"
+    }],
+    "sr":[{
+        "name": "Name: Shimenawa's Reminiscence",
+        "2set": "2 Piece: ATK +18%",
+        "4set": "4 Piece: When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.",
+        "loc": "Location: Momiji-Dyed Court"
+    }],
+    "tf":[{
+        "name": "Name: Thundering Fury",
+        "2set": "2 Piece: Electro DMG Bonus +15%",
+        "4set": "4 Piece: Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.",
+        "loc": "Location: Midsummer Courtyard"
+    }],
+    "tom":[{
+        "name": "Name: Tenacity of the Millelith",
+        "2set": "2 Piece: HP +20%",
+        "4set": "4 Piece: When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "loc": "Location: Ridge Watch"
+    }],
+    "vh":[{
+        "name": "Name: Vermillion Hereafter",
+        "2set": "2 Piece: ATK +18%.",
+        "4set": "4 Piece: After using an Elemental Burst. this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This increase can occur this way maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.",
+        "loc": "Location: The Lost Valley"
+    }],
+    "vv":[{
+        "name": "Name: Viridescent Venerer",
+        "2set": "2 Piece: Anemo DMG Bonus +15%",
+        "4set": "4 Piece: Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+        "loc": "Location: Valley of Remembrance"
+    }],
+    "wt":[{
+        "name": "Name: Wanderer's Troupe",
+        "2set": "2 Piece: Increases Elemental Mastery by 80.",
+        "4set": "4 Piece: Increases Charged Attack DMG by 35% if the character uses a Catalyst or Bow.",
+        "loc": "Location: WL 3 Weekly Bosses, WL 5 Normal Bosses"
+    }]
+}

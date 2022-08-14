@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  bot2:
+    build: .
+    volumes:
+      - .:/code/
+    container_name: genshin_bot
+    env_file: 
+      - .env
